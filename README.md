@@ -1,4 +1,3 @@
-# projeto-wikipedia-santander
 # README do Projeto: Página sobre Breaking Bad
 
 -----
